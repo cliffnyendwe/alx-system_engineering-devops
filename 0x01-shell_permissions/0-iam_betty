@@ -1,3 +1,2 @@
 #!/bin/bash
-
-usermod -u betty 0c949934a38d
+su betty
